@@ -10,9 +10,8 @@
 - 📚 My major is Software Engineering
 - 🌏 I'm living now in Dong Nai, Viet Nam
 - 😅 I'm a newbie in coding 🐧
-- 🧐 I'm interested in coding, sleeping, and reading comics books 
+- 🧐 I'm interested in coding, sleeping, reading comics books and listening to podcast 
 - 😎 My quote is "It's better to live one day as a lion than a thousand years as a sheep"
-- 👌 Fun fact: have problem 👉 listening to music 👉 have a date, sad 👉 sleep ~~ everything 👉 sleep
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
