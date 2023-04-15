@@ -50,7 +50,8 @@
       <img align="center" alt="Bekhongbikcode | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  [![](https://visitcount.itsvg.in/api?id=Bekhongbikcode&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=BeKhongBikCode&icon=0&color=0)](https://visitcount.itsvg.in)
   
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
