@@ -34,6 +34,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bekhongbikcode&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekhongbikcode&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=BeKhongBikCode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
@@ -49,9 +51,6 @@
    <a href="https://www.facebook.com/profile.php?id=100079364149037" target="_blank">
       <img align="center" alt="Bekhongbikcode | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
-  
----
-[![](https://visitcount.itsvg.in/api?id=BeKhongBikCode&icon=0&color=0)](https://visitcount.itsvg.in)
   
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
