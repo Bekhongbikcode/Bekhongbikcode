@@ -34,8 +34,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bekhongbikcode&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekhongbikcode&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Bekhongbikcode&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
@@ -56,3 +54,6 @@
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2022 Thanh Tam Bekhongbikcode
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Bekhongbikcode&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
